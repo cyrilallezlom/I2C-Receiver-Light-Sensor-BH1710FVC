@@ -24,7 +24,7 @@ In the sowtware branch you can find several files :
 The main file is the code that have to be run making everything working together. It displays the temperature measured by the sensor.
 
 - hps_0.h
-
+All the adress are stored in this file.
 
 - DRIVER_read.h & DRIVER_read.c
 
