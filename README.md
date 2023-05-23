@@ -33,11 +33,15 @@ These two codes are used to realise the algorithm explained above.
 
 # HARDWARE
 The goal of the harware part is to build the I2C driver on quartus.
-
+<br><br>
+The physical scheme of the driver is presented on the following pictures
 ![image](hs2.png)
 ![image](hs3.png)
 ![image](hs4.png)
 ![image](hs5.png)
 ![image](hs6.png)
 ![image](hs7.png)
+
+The two following pictures show the test bench results after simulation. On it, we see the bits 
 ![image](hs8.png)
+![image](hs9.png)
