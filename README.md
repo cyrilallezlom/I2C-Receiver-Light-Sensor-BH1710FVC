@@ -32,7 +32,7 @@ All the adress are stored in this file.
 These two codes are used to realise the algorithm explained above.
 
 # HARDWARE
-faire un driver i2c
+The goal of the harware part is to build the I2C driver on quartus.
 
 ![image](hs2.png)
 ![image](hs3.png)
