@@ -16,6 +16,7 @@ We get the address from the terminal where we do an IPconfig. The IP adress is t
 
 The bits are coded in 2's complement (-127 to 127) but stored in a variable of type int unsigned (0 to 255). Due to that, we have to convert the integer and the decimal part in a int type
 <br><br>
+![](main/image1hs.jpg)
 
 In the sowtware branch you can find several files :
 
