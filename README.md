@@ -16,8 +16,18 @@ We get the address from the terminal where we do an IPconfig. The IP adress is t
 
 The bits are coded in 2's complement (-127 to 127) but stored in a variable of type int unsigned (0 to 255). Due to that, we have to convert the integer and the decimal part in a int type
 
+
 In the sowtware branch you can find several files :
 
-- 
+- main.c
+
+The main file is the code that have to be run making everything working together. It displays the temperature measured by the sensor.
+
+- hps_0.h
+
+
+- DRIVER_read.h & DRIVER_read.c
+
+These two codes are used to realise the algorithm explained above.
 
 # HARWARE
