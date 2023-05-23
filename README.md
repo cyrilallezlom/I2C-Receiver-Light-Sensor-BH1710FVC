@@ -34,10 +34,10 @@ These two codes are used to realise the algorithm explained above.
 # HARDWARE
 faire un driver i2c
 
-![image](hs2.jpg)
-![image](hs3.jpg)
-![image](hs4.jpg)
-![image](hs5.jpg)
-![image](hs6.jpg)
-![image](hs7.jpg)
-![image](hs8.jpg)
+![image](hs2.png)
+![image](hs3.png)
+![image](hs4.png)
+![image](hs5.png)
+![image](hs6.png)
+![image](hs7.png)
+![image](hs8.png)
