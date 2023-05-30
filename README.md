@@ -48,3 +48,4 @@ The two following pictures show the test bench results after simulation. On it, 
 
 # Other ressources
 To learn more about the project, you can refer to our youtube video where we show each thing that we built.
+https://www.youtube.com/watch?v=_gH3XU8YFmI
