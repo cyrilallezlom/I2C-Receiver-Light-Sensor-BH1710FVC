@@ -1,5 +1,6 @@
-# I2C-Receiver-Temperature-Sensor-BH1710FVC INTRODUCTION
-
+# I2C-Receiver-Temperature-Sensor
+Projet for the course of hardawre/software platforms (M. Valderama) at the Faculty Polytechnic of Mons Belgium. The members of the project are : Denis Pierre, Liégeois Loïc & Rasic Cyril.
+# Introduction
 The goal of this project is to be the master of a I2C bus linking a temperature sensor and a reader. Being the master means that we are the only one able to initiate a communication on the bus.
 The project is devided in two parts, the first is the software and the second one is the hardware part.
 
@@ -34,14 +35,16 @@ These two codes are used to realise the algorithm explained above.
 # HARDWARE
 The goal of the harware part is to build the I2C driver on quartus.
 <br><br>
-The physical scheme of the driver is presented on the following pictures
+The physical scheme of the driver is presented on the following pictures. On it, you can see all the different logic gates and all the hardware circuit user to build the driver.
 ![image](hs2.png)
 ![image](hs3.png)
 ![image](hs4.png)
 ![image](hs5.png)
-![image](hs6.png)
-![image](hs7.png)
 
-The two following pictures show the test bench results after simulation. On it, we see the bits 
+The two following pictures show the test bench results after simulation. On it, we see the bits received after a simulation of communication on the bus.
 ![image](hs8.png)
 ![image](hs9.png)
+
+
+# Other ressources
+To learn more about the project, you can refer to our youtube video where we show each thing that we built.
