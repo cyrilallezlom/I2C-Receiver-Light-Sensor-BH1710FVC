@@ -1,5 +1,5 @@
 # I2C-Receiver-Temperature-Sensor
-Projet for the course of hardawre/software platforms (M. Valderama) at the Faculty Polytechnic of Mons Belgium. The members of the project are : Denis Pierre, Liégeois Loïc & Rasic Cyril.
+Projet for the course of hardawre/software platforms (M. Valderrama) at the Faculty Polytechnic of Mons Belgium. The members of the project are : Denis Pierre, Liégeois Loïc & Rasic Cyril.
 # Introduction
 The goal of this project is to be the master of a I2C bus linking a temperature sensor and a reader. Being the master means that we are the only one able to initiate a communication on the bus.
 The project is devided in two parts, the first is the software and the second one is the hardware part.
